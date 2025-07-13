@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/simranjeet79/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/simranjeet79/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/simranjeet79/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/simranjeet79/leetcode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/simranjeet79/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/simranjeet79/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/simranjeet79/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/simranjeet79/leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/simranjeet79/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/simranjeet79/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/simranjeet79/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
