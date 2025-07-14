@@ -8,6 +8,7 @@ public:
             profit =max(cost,profit);
             mini= min(prices[i],mini);
         }
+        if(profit<0) return 0;
        return profit; 
     }
 };
