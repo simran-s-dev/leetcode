@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/simranjeet79/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/simranjeet79/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/simranjeet79/leetcode/tree/master/0169-majority-element) |
+| [0792-binary-search](https://github.com/simranjeet79/leetcode/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/simranjeet79/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/simranjeet79/leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/simranjeet79/leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
