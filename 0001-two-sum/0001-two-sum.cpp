@@ -1,15 +1,16 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-       map<int,int> mpp;
-       for(int i=0;i<nums.size();i++){
+     map<int,int> hash;
+     for(int i=0;i<nums.size();i++){
         int a =nums[i];
-        int more =target - a;
-        if(mpp.find(more)!=mpp.end()){
-            return { mpp[more],i};
+        int more =target-a;
+        if(hash.find(more)!=hash.end()) {
+            return {hash[more],i};
         }
-        mpp[nums[i]]=i;
-       }
-      return {0};
+        hash[nums[i]] =i;
+        
+             }
+             return {};
     }
 };
