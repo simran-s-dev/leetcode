@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/simranjeet79/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/simranjeet79/leetcode/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/simranjeet79/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/simranjeet79/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Stack
 |  |
 | ------- |
@@ -93,4 +94,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/simranjeet79/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/simranjeet79/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/simranjeet79/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
