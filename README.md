@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/simranjeet79/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/simranjeet79/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/simranjeet79/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/simranjeet79/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/simranjeet79/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/simranjeet79/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/simranjeet79/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/simranjeet79/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/simranjeet79/leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/simranjeet79/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/simranjeet79/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/simranjeet79/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/simranjeet79/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/simranjeet79/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/simranjeet79/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/simranjeet79/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Stack
@@ -101,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/simranjeet79/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/simranjeet79/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/simranjeet79/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
