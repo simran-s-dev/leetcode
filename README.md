@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/simranjeet79/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/simranjeet79/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/simranjeet79/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2155-find-missing-observations](https://github.com/simranjeet79/leetcode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/simranjeet79/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2155-find-missing-observations](https://github.com/simranjeet79/leetcode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/simranjeet79/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/simranjeet79/leetcode/tree/master/0069-sqrtx) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/simranjeet79/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/simranjeet79/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2155-find-missing-observations](https://github.com/simranjeet79/leetcode/tree/master/2155-find-missing-observations) |
 ## Greedy
 |  |
 | ------- |
