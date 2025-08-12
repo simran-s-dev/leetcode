@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/simranjeet79/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2155-find-missing-observations](https://github.com/simranjeet79/leetcode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/simranjeet79/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2342-minimum-average-difference](https://github.com/simranjeet79/leetcode/tree/master/2342-minimum-average-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1783-ways-to-make-a-fair-array](https://github.com/simranjeet79/leetcode/tree/master/1783-ways-to-make-a-fair-array) |
+| [2342-minimum-average-difference](https://github.com/simranjeet79/leetcode/tree/master/2342-minimum-average-difference) |
 <!---LeetCode Topics End-->
