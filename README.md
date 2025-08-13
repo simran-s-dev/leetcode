@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/simranjeet79/leetcode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/simranjeet79/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2342-minimum-average-difference](https://github.com/simranjeet79/leetcode/tree/master/2342-minimum-average-difference) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/simranjeet79/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3790-fruits-into-baskets-ii](https://github.com/simranjeet79/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/simranjeet79/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/simranjeet79/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/simranjeet79/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/simranjeet79/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/simranjeet79/leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/simranjeet79/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/simranjeet79/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Simulation
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/simranjeet79/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/simranjeet79/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/simranjeet79/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Enumeration
 |  |
 | ------- |
