@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/simranjeet79/leetcode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/simranjeet79/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2342-minimum-average-difference](https://github.com/simranjeet79/leetcode/tree/master/2342-minimum-average-difference) |
+| [3790-fruits-into-baskets-ii](https://github.com/simranjeet79/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2155-find-missing-observations](https://github.com/simranjeet79/leetcode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/simranjeet79/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3790-fruits-into-baskets-ii](https://github.com/simranjeet79/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/simranjeet79/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/simranjeet79/leetcode/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/simranjeet79/leetcode/tree/master/0792-binary-search) |
+| [3790-fruits-into-baskets-ii](https://github.com/simranjeet79/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -123,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1783-ways-to-make-a-fair-array](https://github.com/simranjeet79/leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [2342-minimum-average-difference](https://github.com/simranjeet79/leetcode/tree/master/2342-minimum-average-difference) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/simranjeet79/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/simranjeet79/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
