@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1783-ways-to-make-a-fair-array](https://github.com/simranjeet79/leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/simranjeet79/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/simranjeet79/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2048-build-array-from-permutation](https://github.com/simranjeet79/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2155-find-missing-observations](https://github.com/simranjeet79/leetcode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/simranjeet79/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2342-minimum-average-difference](https://github.com/simranjeet79/leetcode/tree/master/2342-minimum-average-difference) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/simranjeet79/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2155-find-missing-observations](https://github.com/simranjeet79/leetcode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/simranjeet79/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/simranjeet79/leetcode/tree/master/3790-fruits-into-baskets-ii) |
