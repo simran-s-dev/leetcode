@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/simranjeet79/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/simranjeet79/leetcode/tree/master/0792-binary-search) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/simranjeet79/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1580-shuffle-the-array](https://github.com/simranjeet79/leetcode/tree/master/1580-shuffle-the-array) |
 | [1783-ways-to-make-a-fair-array](https://github.com/simranjeet79/leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/simranjeet79/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/simranjeet79/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
