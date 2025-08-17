@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/simranjeet79/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/simranjeet79/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1078-remove-outermost-parentheses](https://github.com/simranjeet79/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/simranjeet79/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/simranjeet79/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Stack
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/simranjeet79/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/simranjeet79/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/simranjeet79/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/simranjeet79/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
